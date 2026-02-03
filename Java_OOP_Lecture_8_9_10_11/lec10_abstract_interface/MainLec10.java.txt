@@ -1,0 +1,8 @@
+package lec10_abstract_interface;
+
+public class MainLec10 {
+    public static void main(String[] args) {
+        Shape c = new Circle(2);
+        System.out.println("Area: " + c.calculateArea());
+    }
+}

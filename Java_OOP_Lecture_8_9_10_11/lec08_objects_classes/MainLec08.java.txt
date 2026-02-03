@@ -1,0 +1,9 @@
+package lec08_objects_classes;
+
+public class MainLec08 {
+    public static void main(String[] args) {
+        Student s = new Student("S01", "Tran Van Nam", "IT");
+        s.doAssignment();
+    }
+}
+

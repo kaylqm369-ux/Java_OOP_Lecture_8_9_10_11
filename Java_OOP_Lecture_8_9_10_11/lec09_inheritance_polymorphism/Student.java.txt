@@ -1,0 +1,8 @@
+package lec09_inheritance_polymorphism;
+
+public class Student extends Person {
+    @Override
+    public void introduce() {
+        System.out.println("I am a student");
+    }
+}
