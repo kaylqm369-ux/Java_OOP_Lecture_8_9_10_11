@@ -1,7 +1,0 @@
-package lec09_inheritance_polymorphism;
-
-public class Person {
-    public void introduce() {
-        System.out.println("I am a person");
-    }
-}
