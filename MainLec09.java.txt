@@ -1,8 +1,0 @@
-package lec09_inheritance_polymorphism;
-
-public class MainLec09 {
-    public static void main(String[] args) {
-        Person p = new Student(); // polymorphism
-        p.introduce();
-    }
-}
